@@ -26,3 +26,4 @@ SEX | Male
 Major | CSCI
 experience of Github | green hand
 
+![GitHub Logo](/project2.png)
